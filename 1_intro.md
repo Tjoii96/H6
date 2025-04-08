@@ -11,5 +11,16 @@ Welkom bij Jupyter Book van IVO! In deze opdracht ga je aan de slag met zelf een
 
 * Geef je file een naam met als extensie *.md* bijv. *Freek.md*
 
-![](./Figuren/naambestand.png)
+![](./Figuren/naambestand.PNG)
+
+* In die file kun je jouw inhoud stoppen / ontwikkelen. 
+* Maak een hoofdstuk titel (# Mijn eerste titel) en een section titel (## Mijn eerste sectie). 
+* Druk op de groene *Commit changes* knop om je aanpassingen door te zetten naar de repo. Je kunt de commit een passende titel geven (of niet).
+
+Wat er nu gebeurd is dat het boek opnieuw gemaakt wordt en via GitHub pages gepubliceerd. Na ongeveer 2 minuten kun je dus het resultaat op de website zien!
+
+* Bekijk eens op de site van [Jupyter Book](https://jupyterbook.org/en/stable/content/index.html) naar wat je allemaal kunt toevoegen en pas dat aan in je eigen gemaakte hoofdstuk: klik daartoe op je gemaakte hoofdstuk en dan op het pennetje aan de rechterkant (*edit this file*)
+* Succes!
+
+
 
