@@ -7,8 +7,9 @@ Welkom bij Jupyter Book van IVO! In deze opdracht ga je aan de slag met zelf een
 * Als je toegang hebt, kun je aan de slag met een eigen hoofdstuk maken.
 * Klik op *Add file* en *Create a new file*, zie hieronder.
 
-![](Figuren/newpage.png)
+![](./Figuren/newpage.png)
 
-* Geef je file een naam met als extentie *.md* bijv. *Freek.md*
+* Geef je file een naam met als extensie *.md* bijv. *Freek.md*
 
-![](Figuren/naambestand.png)
+![](./Figuren/naambestand.png)
+
