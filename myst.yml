@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 87185a22-4a93-4bc3-aa6b-457086c76d24
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/TUD-SEEd/IVO
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
