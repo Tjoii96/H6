@@ -11,5 +11,5 @@ project:
 site:
   template: book-theme
   options:
-    favicon: Figure/favicon.ico
-    logo: Figuren/site_logo.png
+    favicon: Figuren/favicon.ico
+    logo: Figuren/logo.png
