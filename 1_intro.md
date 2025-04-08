@@ -22,5 +22,7 @@ Wat er nu gebeurd is dat het boek opnieuw gemaakt wordt en via GitHub pages gepu
 * Bekijk eens op de site van [Jupyter Book](https://jupyterbook.org/en/stable/content/index.html) naar wat je allemaal kunt toevoegen en pas dat aan in je eigen gemaakte hoofdstuk: klik daartoe op je gemaakte hoofdstuk en dan op het pennetje aan de rechterkant (*edit this file*)
 * Succes!
 
+```{note}
+Goed om te weten... dit boek is gemaakt in [MyST](https://mystmd.org/guide) de meest recente versie van Jupyter Books.
 
 
