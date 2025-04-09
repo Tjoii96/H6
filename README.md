@@ -6,7 +6,8 @@ Op deze website staat alle uitleg, filmpjes en sommen van hoofdstuk 6 die belang
 
 ![](./Figuren/Skilltree.JPG) 
 
-[Introductie](0.Introductie.md)
+
 
 [Haakjes uitwerken](1.Haakjes_uitwerken.md)
 
+[Variabele vrijmaken](2.Variabele_vrijmaken.md)
