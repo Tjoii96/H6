@@ -1,4 +1,4 @@
-# Introductie
+# Hoofdstuk 6
 
 Op deze website staat alle uitleg, filmpjes en sommen van hoofdstuk 6 die belangrijk zijn om je Skill Tree te doorlopen.
 
