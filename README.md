@@ -6,7 +6,6 @@ Op deze website staat alle uitleg, filmpjes en sommen van hoofdstuk 6 die belang
 
 ![](./Figuren/Skilltree.JPG) 
 
-
 ## De skills op een rijtje
 
 [Haakjes uitwerken](1.Haakjes_uitwerken.md)
