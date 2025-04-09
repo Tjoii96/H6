@@ -1,4 +1,4 @@
-# Introductie
+# Template hoofdstuk
 
 Welkom bij Jupyter Book van IVO! In deze opdracht ga je aan de slag met zelf een pagina 'ontwerpen'.
 
