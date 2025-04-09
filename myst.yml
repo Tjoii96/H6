@@ -10,6 +10,6 @@ project:
   # To autogenerate a Table of Contents, run "myst init --write-toc"
 site:
   template: book-theme 
-  options:
-    favicon: Figuren/favicon.ico
-    logo: Figuren/logo.png
+  #options:
+    #favicon: Figuren/favicon.ico
+    #logo: Figuren/logo.png
