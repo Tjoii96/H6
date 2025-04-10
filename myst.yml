@@ -11,5 +11,5 @@ project:
 site:
   template: book-theme 
   #options:
-    #favicon: Figuren/favicon.ico
+    favicon: Figuren/favicon-montaigne-lyceum.png
     #logo: Figuren/logo.png
