@@ -12,7 +12,7 @@ site:
   template: book-theme 
   options:
     #favicon: Figuren/favicon-montaigne-lyceum.png
-    #logo: Figuren/logo.png
+    logo: Figuren/favicon-montaigne-lyceum.png
   actions:
     - title: report issue
       url: https://github.com/Tjoii96/H6/issues
