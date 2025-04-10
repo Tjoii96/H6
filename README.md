@@ -16,4 +16,4 @@ Op deze website staat alle uitleg, filmpjes en sommen van hoofdstuk 6 die belang
 
 [4. Kwadratisch substitueren](4.Kwadratisch_substitueren.md)
 
-[5. Variabele vrijmaken en substitueren](5.Variabele_vrijmaken_en _substitueren.md)
+[5. Variabele vrijmaken en substitueren](5.Variabele_vrijmaken_en_substitueren.md)
