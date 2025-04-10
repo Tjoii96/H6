@@ -6,10 +6,13 @@ project:
   # description:
   # keywords: []
   # authors: []
-  github: https://github.com/TUD-SEEd/IVO
+  github: https://github.com/Tjoii96/H6
   # To autogenerate a Table of Contents, run "myst init --write-toc"
 site:
   template: book-theme 
-  #options:
+  options:
     favicon: Figuren/favicon-montaigne-lyceum.png
     #logo: Figuren/logo.png
+  actions:
+    - title: report issue
+      url: https://github.com/Tjoii96/H6/issues
