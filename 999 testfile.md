@@ -4,7 +4,7 @@ kernelspec:
   display_name: 'Python 3'
 ---
 
-```{code} python
+```{code-cell} python
 import numpy as np
 import matplotlib.pyplot as plt
 
