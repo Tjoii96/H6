@@ -7,6 +7,8 @@ project:
   # keywords: []
   # authors: []
   github: https://github.com/Tjoii96/H6
+  jupyter: true
+  
   # To autogenerate a Table of Contents, run "myst init --write-toc"
 site:
   template: book-theme 
