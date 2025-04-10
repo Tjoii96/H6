@@ -1,3 +1,9 @@
+---
+kernelspec:
+  name: python3
+  display_name: 'Python 3'
+---
+
 ```{code} python
 import numpy as np
 import matplotlib.pyplot as plt
