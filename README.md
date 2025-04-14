@@ -12,7 +12,7 @@ Op deze website staat alle uitleg, filmpjes en sommen van hoofdstuk 6 die belang
 
 [2. Variabele vrijmaken](02.Variabele_vrijmaken.md)
 
-[3. Lineaier susbtitueren](03.Lineair_susbtitueren.md)
+[3. Lineair susbtitueren](03.Lineair_susbtitueren.md)
 
 [4. Kwadratisch substitueren](04.Kwadratisch_substitueren.md)
 
