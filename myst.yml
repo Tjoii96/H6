@@ -14,7 +14,7 @@ project:
 site:
   template: book-theme 
   options:
-    favicon: ./Figuren/favicon-montaigne-lyceum.ico
+    favicon: Figuren/favicon-montaigne-lyceum.ico
     logo: Figuren/favicon-montaigne-lyceum.png
   actions:
     - title: report issue
