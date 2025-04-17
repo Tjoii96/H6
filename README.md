@@ -8,15 +8,15 @@ Op deze website staat alle uitleg, filmpjes en sommen van hoofdstuk 6 die belang
 
 ## De skills op een rijtje
 
-[1. Haakjes uitwerken](01.Haakjes_uitwerken.md)
+[1. Haakjes uitwerken](01.Haakjes_uitwerken.md) voor do 8 mei
 
-[2. Variabele vrijmaken](02.Variabele_vrijmaken.md)
+[2. Variabele vrijmaken](02.Variabele_vrijmaken.md) voor vrij 9 mei
 
-[3. Lineair susbtitueren](03.Lineair_susbtitueren.md)
+[3. Lineair susbtitueren](03.Lineair_susbtitueren.md) voor de les van ma 12 mei
 
-[4. Kwadratisch substitueren](04.Kwadratisch_substitueren.md)
+[4. Kwadratisch substitueren](04.Kwadratisch_substitueren.md) voor de les van ma 12 mei
 
-[5. Variabele vrijmaken en substitueren](05.Variabele_vrijmaken_en_substitueren.md)
+[5. Variabele vrijmaken en substitueren](05.Variabele_vrijmaken_en_substitueren.md) voor de les van do 15 mei
 
 [6. Grafiek plotten](06.Grafiek_plotten.md)
 
