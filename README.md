@@ -10,9 +10,9 @@ Op deze website staat alle uitleg, filmpjes en sommen van hoofdstuk 6 die belang
 
 ### Een weekplanning
 
-Maandag instructie: Hierin gaan we een werkvorm doen (iedere week nieuwe random groepjes)
-Woensdag domeinuur: Hierin doen we een domeinopdracht (in de groepjes van de Excel PO)
-Donderdag instructie: Hier kan je aan skills werken, vragen stellen, of extra uitleg krijgen
+Maandag instructie: Hierin gaan we een werkvorm doen (iedere week nieuwe random groepjes). <br />
+Woensdag domeinuur: Hierin doen we een domeinopdracht (in de groepjes van de Excel PO). <br />
+Donderdag instructie: Hier kan je aan skills werken, vragen stellen, of extra uitleg krijgen. <br />
 Vrijdag domeinuur: Hier kan je aan skills werken, en kom ik langs met de afgelopen domeinopdracht om die met jouw groepje te bespreken.
 
 ### Voorbereiden op de lessen
