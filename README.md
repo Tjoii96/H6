@@ -29,7 +29,7 @@ De leerroutes geven aan welke opgaven uit het boek je moet maken om deze skill e
 
 [2. Variabele vrijmaken](02.Variabele_vrijmaken.md) voor vrij 9 mei
 
-[3. Lineair susbtitueren](03.Lineair_susbtitueren.md) voor de les van ma 12 mei
+[3. Lineair substitueren](03.Lineair_susbtitueren.md) voor de les van ma 12 mei
 
 [4. Kwadratisch substitueren](04.Kwadratisch_substitueren.md) voor de les van ma 12 mei
 
