@@ -44,3 +44,19 @@ De leerroutes geven aan welke opgaven uit het boek je moet maken om deze skill e
 [9. Breuken vermenigvuldigen en delen](09.Breuken_verm_delen.md) voor de les van ma 26 mei
 
 [10. Breuken optellen en aftrekken](10.Breuken_opt_aft.md) voor de les van do 29 mei
+
+[11. Machten vermenigvuldigen, delen en machtsverheffen](11.Macht_verm_del.md) voor de les van ma 2 juni
+
+[12. Machten met een negatieve exponent](12.Macht_neg_exp.md) voor de les van do 5 juni
+
+[13. Machten met een gebroken exponent](13.Macht_gebr_exp.md) voor de les van do 5 juni
+
+[14. Wortels vermenigvuldigen en delen](14.Wort_verm_del.md) voor de les van do 12 juni
+
+[15. Basiskennis exponentiële verbanden](15.Basis_exp.md) voor de les van ma 16 juni
+
+[16. Exponentiële formules herschrijven](16.Exp_herl.md) voor de les van ma 16 juni
+
+[17. Exponentiële verbanden schetsen](17.Exp_schets.md) voor de les van do 19 juni
+
+[18. Werken met exponentiële verbanden](18.Exp_werken.md) voor de les van do 19 juni
