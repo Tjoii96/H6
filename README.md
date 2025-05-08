@@ -60,3 +60,5 @@ De leerroutes geven aan welke opgaven uit het boek je moet maken om deze skill e
 [17. Exponentiële verbanden schetsen](17.Exp_schets.md) voor de les van do 19 juni
 
 [18. Werken met exponentiële verbanden](18.Exp_werken.md) voor de les van do 19 juni
+
+Donderdag 26 juni begint SE week 4. Veel succes met dit hoofdstuk!
