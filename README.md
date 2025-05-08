@@ -35,12 +35,12 @@ De leerroutes geven aan welke opgaven uit het boek je moet maken om deze skill e
 
 [5. Variabele vrijmaken en substitueren](05.Variabele_vrijmaken_en_substitueren.md) voor de les van do 15 mei
 
-[6. Grafiek plotten](06.Grafiek_plotten.md)
+[6. Grafiek plotten](06.Grafiek_plotten.md) voor de les van ma 19 mei
 
-[7. GR max/min berekenen](07.GR_max_min.md)
+[7. GR max/min berekenen](07.GR_max_min.md) voor de les van ma 19 mei
 
-[8. GR waarde berekenen](08.GR_waarde_berekenen.md)
+[8. GR waarde berekenen](08.GR_waarde_berekenen.md) voor de les van do 22 mei
 
-[9. Breuken vermenigvuldigen en delen](09.Breuken_verm_delen.md)
+[9. Breuken vermenigvuldigen en delen](09.Breuken_verm_delen.md) voor de les van ma 26 mei
 
-[10. Breuken optellen en aftrekken](10.Breuken_opt_aft.md)
+[10. Breuken optellen en aftrekken](10.Breuken_opt_aft.md) voor de les van do 29 mei
